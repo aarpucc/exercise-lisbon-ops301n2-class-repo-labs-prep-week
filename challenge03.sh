@@ -15,7 +15,7 @@ lista="ls -l"
 
 $lista
 
-#crira variavel para permissoes
+#cria variavel para permissoes
 permissoes="777"
 
 # texto informativo
